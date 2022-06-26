@@ -62,7 +62,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harinand2/Professor-bot)
 
 ## Commands
 ```
@@ -99,11 +99,11 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Spacial Thanks To
 
-* [⚡️𝐀𝐚𝐝𝐡𝐢⚡️](https://github.com/Aadhi000)
+* [⭕Harinand⭕](https://github.com/Aadhi000)
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [![TVK BOTS](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
