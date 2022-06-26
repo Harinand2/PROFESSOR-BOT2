@@ -62,7 +62,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harinand2/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harinand2/PROFESSOR-BOT2)
 
 ## Commands
 ```
@@ -99,7 +99,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Spacial Thanks To
 
-* [⭕Harinand⭕](https://github.com/Aadhi000)
+* [⭕Harinand⭕](https://github.com/Harinand2)
 
 ## TELAGRAM SUPPORT 
 
