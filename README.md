@@ -102,7 +102,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## TELAGRAM SUPPORT 
 
-* [![TVK BOTS](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [![TVK BOTS](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/tvkbotsupdates)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
